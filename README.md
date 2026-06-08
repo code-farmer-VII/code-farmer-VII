@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-cooker-tech&label=Profile%20views&color=0e75b6&style=flat" alt="code-cooker-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-cooker-tech" alt="code-cooker-tech" /></a> </p>
 
 - 💬 Ask me about **MERN, Laravel ,React Native**
 
