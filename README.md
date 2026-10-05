@@ -1,29 +1,417 @@
-![github](https://github.com/code-cooker-tech/code-cooker-tech/assets/173291463/a29a8923-bc3d-4af8-be55-d6777a20c2ca)
-<h1 align="center">Hi, I'm Temesgen Gonfa, an Information Systems student at Addis Ababa University.</h1>
-<h3 align="center">A passionate full stack web/app developer from Ethiopia</h3>
+<!-- ========================= -->
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
+<!--        PROFILE HEADER      -->
 
+<!-- ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-cooker-tech&label=Profile%20views&color=0e75b6&style=flat" alt="code-cooker-tech" /> </p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Temesgen%20Gonfa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Fintech%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-- 💬 Ask me about **MERN, Laravel ,React Native**
+</div>
 
-- 📫 How to reach me **temesgen.gonfa-ug@aau.edu.et**
+<h1 align="center">
+  👋 Hi, I'm Temesgen Gonfa
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/temesgen gonfa](https://www.linkedin.com/in/temesgen-gonfa-125a25271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temesgen gonfa" height="30" width="40" /></a>
-<a href="h[ttps://www.leetcode.com/temesgen gonfa](https://leetcode.com/u/bojagonfa/](https://leetcode.com/u/bojagonfa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="temesgen gonfa" height="30" width="40" /></a>
+<h3 align="center">
+  Software Engineer • Backend Engineer • Full-Stack Developer • Fintech Enthusiast
+</h3>
+
+<p align="center">
+  <em>
+    Building scalable backend systems, fintech integrations, APIs, microservices,
+    and intelligent software solutions.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/code-cooker-tech">
+    <img src="https://komarev.com/ghpvc/?username=code-cooker-tech&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/code-cooker-tech?tab=followers">
+    <img src="https://img.shields.io/github/followers/code-cooker-tech?label=Followers&style=for-the-badge&color=06b6d4" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/code-cooker-tech?tab=repositories">
+    <img src="https://img.shields.io/github/stars/code-cooker-tech?label=Stars&style=for-the-badge&color=f59e0b" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-cooker-tech&show_icons=true&locale=en&layout=compact" alt="code-cooker-tech" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-cooker-tech&show_icons=true&locale=en" alt="code-cooker-tech" /></p>
+<!-- ========================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-cooker-tech&" alt="code-cooker-tech" /></p>
+<!--          ABOUT ME          -->
+
+<!-- ========================= -->
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer from Ethiopia** with a strong interest in backend engineering, distributed systems, fintech, cloud-native applications, and AI-powered software.
+
+I enjoy turning complex business requirements into **reliable, scalable, and maintainable software systems**.
+
+```text
+💼 Software Engineering
+🏦 Fintech & Digital Financial Services
+⚙️ Backend & Microservices
+🌐 Full-Stack Development
+☁️ Cloud & DevOps
+🤖 AI Engineering & Intelligent Applications
+📊 Data & Automation
+```
+
+### 🚀 What I Work With
+
+* 🔹 Backend development with **Java & Spring Boot**
+* 🔹 REST & SOAP API integrations
+* 🔹 Microservices & distributed systems
+* 🔹 Kafka & event-driven architecture
+* 🔹 PostgreSQL, MySQL, MongoDB & Redis
+* 🔹 Docker & Kubernetes
+* 🔹 CI/CD and cloud deployments
+* 🔹 React & modern frontend development
+* 🔹 Python, FastAPI & AI applications
+* 🔹 Data analysis, automation & dashboards
+
+---
+
+## 🧠 Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* REST APIs
+* SOAP / Web Services
+* Microservices
+* Apache Kafka
+* PostgreSQL
+* Redis
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+* Docker
+* Kubernetes
+* Git
+* GitLab CI/CD
+* AWS
+* API Gateway
+* Config Server
+* Observability
+* Linux
+* Cloud-native architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+
+* React
+* TypeScript
+* JavaScript
+* Node.js
+* Express.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Laravel
+* PHP
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+* Python
+* FastAPI
+* LLM Applications
+* RAG
+* AI Agents
+* LangGraph
+* Vector Search
+* Data Analysis
+* Power BI
+* SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,cs,php,r" />
+
+</p>
+
+### 🚀 Backend & Frameworks
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel,fastapi" />
+
+</p>
+
+### 🌐 Frontend & Mobile
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,bootstrap" />
+
+</p>
+
+### 🗄️ Databases & Messaging
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
+
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,linux" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,jenkins" />
+
+</p>
+
+---
+
+# 🏗️ What I Like Building
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     SOFTWARE ENGINEERING                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🏦 Fintech Systems       → Payment & financial integrations │
+│  ⚙️ Microservices         → Scalable distributed systems     │
+│  📨 Event-Driven Systems  → Kafka-based architectures        │
+│  🔐 Secure APIs           → JWT / OAuth / Spring Security    │
+│  ☁️ Cloud Applications    → Docker / Kubernetes / AWS        │
+│  🤖 AI Applications       → RAG / Agents / LLM systems       │
+│  📊 Data Platforms        → Analytics / Automation           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/code-cooker-tech">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-cooker-tech&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12" />
+
+</a>
+
+<a href="https://github.com/code-cooker-tech">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-cooker-tech&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight&border_radius=12" />
+
+</a>
+
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=code-cooker-tech&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+
+<a href="https://github.com/code-cooker-tech">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-cooker-tech&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-cooker-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Fintech Integration Platform
+
+Backend services and integrations designed around financial transaction processing, APIs, event-driven communication, and enterprise systems.
+
+**Tech:**
+
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Docker`
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Legal Contract Reviewer
+
+An AI-powered application designed to analyze contracts, retrieve relevant legal references, and provide intelligent document insights.
+
+**Tech:**
+
+`Python` `FastAPI` `LLM` `RAG` `Vector Search`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔎 AI Financial Investigation Assistant
+
+An intelligent assistant for investigating financial transactions using LLMs, structured data, vector search, and agent workflows.
+
+**Tech:**
+
+`Python` `LangGraph` `PostgreSQL` `pgvector` `OpenAI`
+
+</td>
+
+<td width="50%">
+
+### ⚡ Event-Driven Microservices
+
+Distributed services communicating through asynchronous events with focus on scalability, reliability, and loose coupling.
+
+**Tech:**
+
+`Spring Boot` `Kafka` `Docker` `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</p>
+
+```text
+AI Engineering
+      ↓
+LLM Applications
+      ↓
+RAG + Hybrid Search
+      ↓
+AI Agents
+      ↓
+Agentic Workflows
+      ↓
+Production AI Systems
+```
+
+---
+
+# 💡 Engineering Principles
+
+> **"Good software is not only code that works — it's code that can evolve."**
+
+I care about:
+
+* 🧩 Clean Architecture
+* ♻️ Reusable and maintainable code
+* 🔐 Secure system design
+* 📈 Scalability
+* ⚡ Performance
+* 🧪 Testing
+* 📖 Documentation
+* 🔍 Observability
+* 🤝 Collaboration
+* 🚀 Continuous learning
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/temesgen-gonfa-125a25271/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:temesgen.gonfa-ug@aau.edu.et">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/code-cooker-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/bojagonfa/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💬 "Build. Learn. Ship. Repeat."
+
+![github](https://github.com/code-cooker-tech/code-cooker-tech/assets/173291463/a29a8923-bc3d-4af8-be55-d6777a20c2ca)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+
+</p>
