@@ -225,57 +225,6 @@ I enjoy turning complex business requirements into **reliable, scalable, and mai
 ```
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/code-cooker-tech">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-cooker-tech&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12" />
-
-</a>
-
-<a href="https://github.com/code-cooker-tech">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-cooker-tech&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight&border_radius=12" />
-
-</a>
-
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=code-cooker-tech&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-
-<a href="https://github.com/code-cooker-tech">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-cooker-tech&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-cooker-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</p>
-
----
-
 # 📌 Featured Projects
 
 <table>
